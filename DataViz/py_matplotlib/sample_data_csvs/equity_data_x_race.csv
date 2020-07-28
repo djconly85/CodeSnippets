@@ -1,0 +1,129 @@
+input_fc,ethnicity,population,wtd_avg_dests,travmode,destination_type,max_time,ethn_for_chart
+access_JobsTran45,whi_nonhisp,1297016.0,18608.30399055987,Tran,Jobs,45,White
+access_JobsTran45,black,166984.0,30980.339336044177,Tran,Jobs,45,Black
+access_JobsTran45,amer_ind,16674.0,23456.606364399664,Tran,Jobs,45,Native American
+access_JobsTran45,asian,320557.0,20614.670363180336,Tran,Jobs,45,Asian
+access_JobsTran45,pac_isl,19561.0,22523.94699555237,Tran,Jobs,45,Pacific Isl
+access_JobsTran45,other,157270.0,29571.924250588163,Tran,Jobs,45,Other Race
+access_JobsTran45,tworace,158864.0,22934.654459034144,Tran,Jobs,45,Multiracial
+access_JobsTran45,hispanic,541053.0,24674.748827286792,Tran,Jobs,45,Hispanic (any race)
+access_JobsCar30,whi_nonhisp,1297016.0,475287.923032345,Car,Jobs,30,White
+access_JobsCar30,black,166984.0,634037.082206978,Car,Jobs,30,Black
+access_JobsCar30,amer_ind,16674.0,487395.30280796444,Car,Jobs,30,Native American
+access_JobsCar30,asian,320557.0,540617.9137345621,Car,Jobs,30,Asian
+access_JobsCar30,pac_isl,19561.0,599996.5409043506,Car,Jobs,30,Pacific Isl
+access_JobsCar30,other,157270.0,583587.8044852166,Car,Jobs,30,Other Race
+access_JobsCar30,tworace,158864.0,540599.7997455684,Car,Jobs,30,Multiracial
+access_JobsCar30,hispanic,541053.0,518556.77329206193,Car,Jobs,30,Hispanic (any race)
+access_JobsWalk30,whi_nonhisp,1297016.0,3802.058103377291,Walk,Jobs,30,White
+access_JobsWalk30,black,166984.0,5336.593543333493,Walk,Jobs,30,Black
+access_JobsWalk30,amer_ind,16674.0,4705.59947822958,Walk,Jobs,30,Native American
+access_JobsWalk30,asian,320557.0,3730.9557732946087,Walk,Jobs,30,Asian
+access_JobsWalk30,pac_isl,19561.0,3676.781984049895,Walk,Jobs,30,Pacific Isl
+access_JobsWalk30,other,157270.0,4893.437837349782,Walk,Jobs,30,Other Race
+access_JobsWalk30,tworace,158864.0,3927.2852181740363,Walk,Jobs,30,Multiracial
+access_JobsWalk30,hispanic,541053.0,4207.54529524834,Walk,Jobs,30,Hispanic (any race)
+access_JobsBike30,whi_nonhisp,1297016.0,36013.16411004953,Bike,Jobs,30,White
+access_JobsBike30,black,166984.0,53097.88483962535,Bike,Jobs,30,Black
+access_JobsBike30,amer_ind,16674.0,43992.11596257646,Bike,Jobs,30,Native American
+access_JobsBike30,asian,320557.0,37265.444205149164,Bike,Jobs,30,Asian
+access_JobsBike30,pac_isl,19561.0,43099.82678953018,Bike,Jobs,30,Pacific Isl
+access_JobsBike30,other,157270.0,57978.396409486864,Bike,Jobs,30,Other Race
+access_JobsBike30,tworace,158864.0,42290.922131131025,Bike,Jobs,30,Multiracial
+access_JobsBike30,hispanic,541053.0,47034.04358366001,Bike,Jobs,30,Hispanic (any race)
+access_GroceryCar15,whi_nonhisp,1297016.0,115.04505033091343,Car,Grocery,15,White
+access_GroceryCar15,black,166984.0,172.12219134767403,Car,Grocery,15,Black
+access_GroceryCar15,amer_ind,16674.0,130.9575986565911,Car,Grocery,15,Native American
+access_GroceryCar15,asian,320557.0,131.25258222406623,Car,Grocery,15,Asian
+access_GroceryCar15,pac_isl,19561.0,157.59393691529064,Car,Grocery,15,Pacific Isl
+access_GroceryCar15,other,157270.0,168.62527500476887,Car,Grocery,15,Other Race
+access_GroceryCar15,tworace,158864.0,137.62945664215934,Car,Grocery,15,Multiracial
+access_GroceryCar15,hispanic,541053.0,141.76825560527342,Car,Grocery,15,Hispanic (any race)
+access_GroceryWalk30,whi_nonhisp,1297016.0,3.353346890092335,Walk,Grocery,30,White
+access_GroceryWalk30,black,166984.0,5.126600332966032,Walk,Grocery,30,Black
+access_GroceryWalk30,amer_ind,16674.0,4.820176922154252,Walk,Grocery,30,Native American
+access_GroceryWalk30,asian,320557.0,3.853181119114541,Walk,Grocery,30,Asian
+access_GroceryWalk30,pac_isl,19561.0,4.550160012269312,Walk,Grocery,30,Pacific Isl
+access_GroceryWalk30,other,157270.0,6.0037328161760035,Walk,Grocery,30,Other Race
+access_GroceryWalk30,tworace,158864.0,4.097300710041293,Walk,Grocery,30,Multiracial
+access_GroceryWalk30,hispanic,541053.0,5.017824945060835,Walk,Grocery,30,Hispanic (any race)
+access_MedSvcCar30,whi_nonhisp,1297016.0,24.175837746026264,Car,MedSvc,30,White
+access_MedSvcCar30,black,166984.0,31.312288303070954,Car,MedSvc,30,Black
+access_MedSvcCar30,amer_ind,16674.0,24.347727000119946,Car,MedSvc,30,Native American
+access_MedSvcCar30,asian,320557.0,27.03467021465761,Car,MedSvc,30,Asian
+access_MedSvcCar30,pac_isl,19561.0,29.312661418127906,Car,MedSvc,30,Pacific Isl
+access_MedSvcCar30,other,157270.0,28.68028034590195,Car,MedSvc,30,Other Race
+access_MedSvcCar30,tworace,158864.0,27.095112486151677,Car,MedSvc,30,Multiracial
+access_MedSvcCar30,hispanic,541053.0,25.737487935562694,Car,MedSvc,30,Hispanic (any race)
+access_MedSvcTran45,whi_nonhisp,1297016.0,1.134372706273477,Tran,MedSvc,45,White
+access_MedSvcTran45,black,166984.0,1.8825237148469312,Tran,MedSvc,45,Black
+access_MedSvcTran45,amer_ind,16674.0,1.3801961137099676,Tran,MedSvc,45,Native American
+access_MedSvcTran45,asian,320557.0,1.3424990875257756,Tran,MedSvc,45,Asian
+access_MedSvcTran45,pac_isl,19561.0,1.935493072951281,Tran,MedSvc,45,Pacific Isl
+access_MedSvcTran45,other,157270.0,1.8103244102498892,Tran,MedSvc,45,Other Race
+access_MedSvcTran45,tworace,158864.0,1.338936637627153,Tran,MedSvc,45,Multiracial
+access_MedSvcTran45,hispanic,541053.0,1.4840783804913753,Tran,MedSvc,45,Hispanic (any race)
+access_GroceryBike30,whi_nonhisp,1297016.0,29.450462145416864,Bike,Grocery,30,White
+access_GroceryBike30,black,166984.0,46.609568341877065,Bike,Grocery,30,Black
+access_GroceryBike30,amer_ind,16674.0,36.22210087561473,Bike,Grocery,30,Native American
+access_GroceryBike30,asian,320557.0,34.90071297772315,Bike,Grocery,30,Asian
+access_GroceryBike30,pac_isl,19561.0,45.53473902152242,Bike,Grocery,30,Pacific Isl
+access_GroceryBike30,other,157270.0,50.1149420105551,Bike,Grocery,30,Other Race
+access_GroceryBike30,tworace,158864.0,36.0287934963239,Bike,Grocery,30,Multiracial
+access_GroceryBike30,hispanic,541053.0,40.93957059659589,Bike,Grocery,30,Hispanic (any race)
+access_MedSvcBike30,whi_nonhisp,1297016.0,2.1834372205123143,Bike,MedSvc,30,White
+access_MedSvcBike30,black,166984.0,3.2414021702678095,Bike,MedSvc,30,Black
+access_MedSvcBike30,amer_ind,16674.0,2.50223641597697,Bike,MedSvc,30,Native American
+access_MedSvcBike30,asian,320557.0,2.467598243058177,Bike,MedSvc,30,Asian
+access_MedSvcBike30,pac_isl,19561.0,3.1071248913654723,Bike,MedSvc,30,Pacific Isl
+access_MedSvcBike30,other,157270.0,3.5225180899090747,Bike,MedSvc,30,Other Race
+access_MedSvcBike30,tworace,158864.0,2.478725450699969,Bike,MedSvc,30,Multiracial
+access_MedSvcBike30,hispanic,541053.0,2.8505793147806218,Bike,MedSvc,30,Hispanic (any race)
+access_MedSvcWalk30,whi_nonhisp,1297016.0,0.29622817297550685,Walk,MedSvc,30,White
+access_MedSvcWalk30,black,166984.0,0.31417848416614763,Walk,MedSvc,30,Black
+access_MedSvcWalk30,amer_ind,16674.0,0.29334652752788776,Walk,MedSvc,30,Native American
+access_MedSvcWalk30,asian,320557.0,0.2038871713922953,Walk,MedSvc,30,Asian
+access_MedSvcWalk30,pac_isl,19561.0,0.32343796329431007,Walk,MedSvc,30,Pacific Isl
+access_MedSvcWalk30,other,157270.0,0.30864723087683604,Walk,MedSvc,30,Other Race
+access_MedSvcWalk30,tworace,158864.0,0.2448530189344345,Walk,MedSvc,30,Multiracial
+access_MedSvcWalk30,hispanic,541053.0,0.2794389828722879,Walk,MedSvc,30,Hispanic (any race)
+access_GroceryTran30,whi_nonhisp,1297016.0,6.337901159276369,Tran,Grocery,30,White
+access_GroceryTran30,black,166984.0,10.923073108800844,Tran,Grocery,30,Black
+access_GroceryTran30,amer_ind,16674.0,8.90844188557035,Tran,Grocery,30,Native American
+access_GroceryTran30,asian,320557.0,7.597416902454166,Tran,Grocery,30,Asian
+access_GroceryTran30,pac_isl,19561.0,9.39431777516487,Tran,Grocery,30,Pacific Isl
+access_GroceryTran30,other,157270.0,11.799185731544478,Tran,Grocery,30,Other Race
+access_GroceryTran30,tworace,158864.0,8.167064029610234,Tran,Grocery,30,Multiracial
+access_GroceryTran30,hispanic,541053.0,9.665654972803035,Tran,Grocery,30,Hispanic (any race)
+access_EduTran45,whi_nonhisp,1297016.0,15.605514203371431,Tran,Edu,45,White
+access_EduTran45,black,166984.0,24.534484381737172,Tran,Edu,45,Black
+access_EduTran45,amer_ind,16674.0,18.10100455799448,Tran,Edu,45,Native American
+access_EduTran45,asian,320557.0,18.4581631971849,Tran,Edu,45,Asian
+access_EduTran45,pac_isl,19561.0,21.341092479934563,Tran,Edu,45,Pacific Isl
+access_EduTran45,other,157270.0,23.484562790106185,Tran,Edu,45,Other Race
+access_EduTran45,tworace,158864.0,19.15226313072817,Tran,Edu,45,Multiracial
+access_EduTran45,hispanic,541053.0,19.945890254743993,Tran,Edu,45,Hispanic (any race)
+access_EduBike30,whi_nonhisp,1297016.0,35.46938411708105,Bike,Edu,30,White
+access_EduBike30,black,166984.0,48.03858124131652,Bike,Edu,30,Black
+access_EduBike30,amer_ind,16674.0,37.63160129543001,Bike,Edu,30,Native American
+access_EduBike30,asian,320557.0,37.70328693492889,Bike,Edu,30,Asian
+access_EduBike30,pac_isl,19561.0,43.80719646234856,Bike,Edu,30,Pacific Isl
+access_EduBike30,other,157270.0,48.05865740446366,Bike,Edu,30,Other Race
+access_EduBike30,tworace,158864.0,40.12518682646792,Bike,Edu,30,Multiracial
+access_EduBike30,hispanic,541053.0,41.247184046664565,Bike,Edu,30,Hispanic (any race)
+access_EduCar30,whi_nonhisp,1297016.0,465.5032506383884,Car,Edu,30,White
+access_EduCar30,black,166984.0,594.4469045537296,Car,Edu,30,Black
+access_EduCar30,amer_ind,16674.0,468.35890008396296,Car,Edu,30,Native American
+access_EduCar30,asian,320557.0,505.975510127684,Car,Edu,30,Asian
+access_EduCar30,pac_isl,19561.0,556.7690884924084,Car,Edu,30,Pacific Isl
+access_EduCar30,other,157270.0,554.9485041648121,Car,Edu,30,Other Race
+access_EduCar30,tworace,158864.0,515.6743328255615,Car,Edu,30,Multiracial
+access_EduCar30,hispanic,541053.0,495.4283439145518,Car,Edu,30,Hispanic (any race)
+access_EduWalk30,whi_nonhisp,1297016.0,4.130932895199442,Walk,Edu,30,White
+access_EduWalk30,black,166984.0,5.447563898337565,Walk,Edu,30,Black
+access_EduWalk30,amer_ind,16674.0,4.560707088880893,Walk,Edu,30,Native American
+access_EduWalk30,asian,320557.0,4.495677211853119,Walk,Edu,30,Asian
+access_EduWalk30,pac_isl,19561.0,5.031871069986197,Walk,Edu,30,Pacific Isl
+access_EduWalk30,other,157270.0,5.4332711896738095,Walk,Edu,30,Other Race
+access_EduWalk30,tworace,158864.0,4.767942265082084,Walk,Edu,30,Multiracial
+access_EduWalk30,hispanic,541053.0,4.969436469255322,Walk,Edu,30,Hispanic (any race)
