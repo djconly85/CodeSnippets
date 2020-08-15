@@ -33,7 +33,7 @@ import matplotlib.pyplot as plt
 class BarChart():
         
     def __init__(self, in_df, subplt_row_names, subplt_col_names, subplt_xticklab, subplt_col_yvals,
-              subplt_series_vals, subplt_titles, out_dir, fig_title=None, single_series_name='series1',
+              subplt_series_vals, out_dir, fig_title=None, single_series_name='series1',
               outputformat='PNG'):
         ''' 
         OVERVIEW:
@@ -65,7 +65,7 @@ class BarChart():
         self.fig_title = fig_title
         
         # default figure title name
-        if fig_title is None:
+        if self.fig_title is None:
             self.fig_title = "BarChart{}".format(int(time.clock()))
 
     
@@ -176,8 +176,8 @@ class BarChart():
         # col_tagging_field = 'direction' # a separate col of charts will be created for each unique value of this field
         # row_tagging_field = dfcol_rowsplittags # a separate row of charts will be created for each unique value of this field
     
-        col_splitter = dfp2[self.subplt_col_names].unique() #get unique values for making each column of charts
-        row_splitter = dfp2[self.subplt_row_names].unique() #get unique values for making each row of charts
+        col_splitter = self.in_df[self.subplt_col_names].unique() #get unique values for making each column of charts
+        row_splitter = self.in_df[self.subplt_row_names].unique() #get unique values for making each row of charts
     
     
         ax_cols_idx = [i for i, v in enumerate(col_splitter)]
@@ -220,13 +220,14 @@ class BarChart():
             df_chart = self.in_df.loc[(self.in_df[self.subplt_col_names] == col_filter_val) & (self.in_df[self.subplt_row_names] == row_filter_val)]
             # print(df_chart[['measure', 'value', 'data_year', 'proj_desc', 'direction']].head())
             
-            subplot_title = 
+            # what to title the subplots; may want to update to add more flexibility.
+            subplot_title = df_chart[self.subplt_col_names][0]
     
-            self.make_bar_chart(ax_i, df_chart)
+            self.make_bar_chart(ax_i, df_chart, subplot_title)
     
         plt.tight_layout()
     
-        output_figfile = r'C:\Users\dconly\GitRepos\CodeSnippets\DataViz\py_matplotlib\sample_outputs\test_out.png'
+        output_figfile = os.path.join(self.out_dir, "{}.{}".format(self.fig_title, self.outputformat))
         plt.savefig(output_figfile)
     
         plt.show()
@@ -254,6 +255,7 @@ if __name__ == '__main__':
     in_csv = r"C:\Users\dconly\GitRepos\CodeSnippets\DataViz\py_matplotlib\sample_data_csvs\speed_data_x_project.csv"
     df = pd.read_csv(in_csv)
     
+    outputs_dir = r'C:\Users\dconly\GitRepos\CodeSnippets\DataViz\py_matplotlib\sample_outputs'
     
     # column names: 'measure_full', 'value', 'proj_desc', 'proj_inum', 'data_year', 'direction', 'measure'
     
@@ -263,16 +265,29 @@ if __name__ == '__main__':
     direcn = df['direction'][0]
     measures_to_include = ['lottr_ampk', 'lottr_pmpk', 'lottr_md', 'lottr_wknd', 'havg_spd_worst4hrs']
     
-    #just lottr
-    dfp = df.loc[(df['proj_desc'] == proj) & (df['direction'] == direcn)              & df['measure'].str.contains('lottr')]
-    
     #speed and lottr both directions
-    dfp2 = df.loc[(df['proj_desc'] == proj) & (df['measure'].isin(measures_to_include))]
+    dfp = df.loc[(df['proj_desc'] == proj) & (df['measure'].isin(measures_to_include))]
     # print(dfp2)
     
+    xgroups_col = 'measure'
+    yvals = 'value'
     dfcol_rowsplittags = 'meas2'
+    dfcol_colsplittags = 'direction'
+    series_col = 'data_year'
     # unique vals of this field will determine how many rows of charts
-    dfp2[dfcol_rowsplittags] = dfp2['measure'].map(simplify_measure)
+    dfp[dfcol_rowsplittags] = dfp['measure'].map(simplify_measure)
     
-    chart_title = f'{proj} - {direcn}'
+    project_title = df['proj_desc'][0]
+    
+    #in_df, subplt_row_names, subplt_col_names, subplt_xticklab, subplt_col_yvals,
+    #          subplt_series_vals, out_dir, fig_title=None, single_series_name='series1',
+    #          outputformat='PNG')
+    
+    dfp_chart = BarChart(dfcol_rowsplittags, dfcol_colsplittags, xgroups_col, yvals,
+                         series_col, dfcol_colsplittags, outputs_dir, project_title)
+    
+    dfp_chart.make_bar_chart_subplots()
+    
+    
+    
 
