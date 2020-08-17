@@ -262,35 +262,39 @@ if __name__ == '__main__':
     outputs_dir = r'/Users/darrenconly/PythonProjects/CodeSnippets/DataViz/py_matplotlib/sample_outputs'
     
     # column names: 'measure_full', 'value', 'proj_desc', 'proj_inum', 'data_year', 'direction', 'measure'
-    
-    # filter to only one test project
-    
-    proj = df['proj_desc'][0]
-    direcn = df['direction'][0]
     measures_to_include = ['lottr_ampk', 'lottr_pmpk', 'lottr_md', 'lottr_wknd', 'havg_spd_worst4hrs']
     
-    #speed and lottr both directions
-    dfp = df.loc[(df['proj_desc'] == proj) & (df['measure'].isin(measures_to_include))]
-    # print(dfp2)
-    
-    xgroups_col = 'measure'
-    yvals = 'value'
-    dfcol_rowsplittags = 'meas2'
-    dfcol_colsplittags = 'direction'
-    series_col = 'data_year'
-    # unique vals of this field will determine how many rows of charts
-    dfp[dfcol_rowsplittags] = dfp['measure'].map(simplify_measure)
-    
-    project_title = df['proj_desc'][0]
-    
-    #in_df, subplt_row_names, subplt_col_names, subplt_xticklab, subplt_col_yvals,
-    #          subplt_series_vals, out_dir, fig_title=None, single_series_name='series1',
-    #          outputformat='PNG')
-    
-    dfp_chart = BarChart(dfp, dfcol_rowsplittags, dfcol_colsplittags, xgroups_col, yvals,
-                         series_col, outputs_dir, fig_title=project_title)
-    
-    dfp_chart.make_bar_chart_subplots()
+    proj_list = df['proj_desc'].unique()
+    for project in proj_list:
+        print('making charts for {}...'.format(project))
+    # filter to only one test project
+        
+        #speed and lottr both directions
+        dfp = df.loc[(df['proj_desc'] == project) & (df['measure'].isin(measures_to_include))]
+
+        # print(dfp2)
+        
+        xgroups_col = 'measure'
+        yvals = 'value'
+        dfcol_rowsplittags = 'meas2'
+        dfcol_colsplittags = 'direction'
+        series_col = 'data_year'
+        
+        # unique vals of this field will determine how many rows of charts
+        dfp[dfcol_rowsplittags] = dfp['measure'].map(simplify_measure)
+        
+        project_title = dfp['proj_desc'].iloc[0]
+        
+        #in_df, subplt_row_names, subplt_col_names, subplt_xticklab, subplt_col_yvals,
+        #          subplt_series_vals, out_dir, fig_title=None, single_series_name='series1',
+        #          outputformat='PNG')
+        
+        # this class below should be made general, to work/adapt to variety of data sets;
+        # everything above it is tailored to this specific input data set.
+        dfp_chart = BarChart(dfp, dfcol_rowsplittags, dfcol_colsplittags, xgroups_col, yvals,
+                             series_col, outputs_dir, fig_title=project_title)
+        
+        dfp_chart.make_bar_chart_subplots()
     
     
     
