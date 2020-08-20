@@ -174,6 +174,9 @@ class BarChart():
     def make_bar_chart_subplots(self, xtick_rotn_dict=None, **subplotkwargs):
         '''
         PURPOSE: makes a figure with multiple bar charts on it (subplots), laid out in a grid format
+        PARAMETERS:
+            xtick_rotn_dict = dict indicating, for each row of charts, how you want to rotate the x-axis tickmarks
+                e.g. {<chart row N>:<degrees to rotate x ticks on charts in chart row N>}
         SUBPLOT KW ARGS:
             yval_numformat = how y value labels will appear over bars. default is 'numeric'
                 'numeric' = as number with user-specified number of decimals. default=2 decimal places
@@ -215,7 +218,8 @@ class BarChart():
             #establish position of chart
             axrow_i = ilist[0] #index numbers for each row of charts
             axcol_i = ilist[1] #index numbers for each col of charts
-            ax_i = axes[axrow_i, axcol_i]
+            # pdb.set_trace()
+            ax_i = axes[axrow_i, axcol_i] if n_chartscols > 1 else axes[axrow_i]
     
             # filter input dataframe to appropriate parameters
             col_filter_val = col_splitter[axcol_i]
