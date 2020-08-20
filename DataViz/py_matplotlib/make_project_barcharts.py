@@ -71,7 +71,7 @@ class BarChart():
 
     
     def make_bar_chart(self, ax, subplt_df, subplt_title=None, yval_numformat='numeric', label_precision=2,
-                       x_axis_label=None, y_axis_label=None):
+                       x_axis_label=None, y_axis_label=None, x_tick_rotation=0):
         '''
         INPUTS:
             ax = matplotlib axes object
@@ -94,7 +94,7 @@ class BarChart():
     
         # the values that will be shown for each tick mark on the x axis
         x_label_vals = subplt_df[self.subplt_xticklab].unique()  
-        ax.set_xticklabels(x_label_vals)
+        ax.set_xticklabels(x_label_vals, rotation=x_tick_rotation)
     
         # the distance along the x axis at which the x-axis label will be placed
         x_label_posns = [i + (bar_width/2) for i, v in enumerate(x_label_vals)]
@@ -171,7 +171,7 @@ class BarChart():
         
     #=======FUNCTION TO RUN ON DATAFRAME AFTER IT'S BEEN PREPARED FOR CHARTING==========
     
-    def make_bar_chart_subplots(self, **subplotkwargs):
+    def make_bar_chart_subplots(self, xtick_rotn_dict=None, **subplotkwargs):
         '''
         PURPOSE: makes a figure with multiple bar charts on it (subplots), laid out in a grid format
         SUBPLOT KW ARGS:
@@ -221,33 +221,26 @@ class BarChart():
             col_filter_val = col_splitter[axcol_i]
             row_filter_val = row_splitter[axrow_i]
     
-            df_chart = self.in_df.loc[(self.in_df[self.subplt_col_names] == col_filter_val) & (self.in_df[self.subplt_row_names] == row_filter_val)]
+            df_chart = self.in_df.loc[(self.in_df[self.subplt_col_names] == col_filter_val) \
+                                      & (self.in_df[self.subplt_row_names] == row_filter_val)]
             
             # what to title the subplots; may want to update to add more flexibility.
             subplot_title = df_chart[self.subplt_col_names].iloc[0]
+            
+            # if applicable, define rotation in degrees for x tickmark labels
+            xtick_rotn = xtick_rotn_dict[row_filter_val] if xtick_rotn_dict else 0
     
-            self.make_bar_chart(ax_i, df_chart, subplot_title, y_axis_label=row_filter_val)
+            self.make_bar_chart(ax_i, df_chart, subplot_title, y_axis_label=row_filter_val, 
+                                x_tick_rotation=xtick_rotn, **subplotkwargs)
     
-        fig.tight_layout(pad=3.0)  
-        fig.suptitle(self.fig_title)
+        # add title to top of figure
+        fig.suptitle(self.fig_title, fontsize='x-large', fontweight='bold')
+        fig.tight_layout(pad=3.0)
     
         output_figfile = os.path.join(self.out_dir, "{}.{}".format(self.fig_title, self.outputformat))
         plt.savefig(output_figfile)
     
         plt.show()
-    
-    
-# def simplify_measure(x):
-#     dict_simplify = {'lottr_ampk': 'lottr', 'lottr_pmpk': 'lottr', 'lottr_md': 'lottr',
-#                      'lottr_wknd': 'lottr', 'havg_spd_worst4hrs': 'speed'}
-                     
-#     if x in dict_simplify.keys():
-#         out_val = dict_simplify[x]
-#     else:
-#         out_val = 'Other'
-#     return out_val
-    
-
         
         
         
