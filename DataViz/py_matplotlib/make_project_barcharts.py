@@ -208,9 +208,9 @@ class BarChart():
             for col in ax_cols_idx:
                 chart_idx_list.append([row, col])
     
-        # output sheet size in inches
-        fig_width = 11
-        fig_height = 11
+        # output sheet size in inches per column * number of column
+        fig_width = 5.5 * len(ax_cols_idx)
+        fig_height = 5.5 * len(ax_rows_idx)
     
         fig, axes = plt.subplots(nrows=n_chartrows, ncols=n_chartscols, figsize=(fig_width, fig_height))
     
@@ -238,7 +238,7 @@ class BarChart():
                                 x_tick_rotation=xtick_rotn, **subplotkwargs)
     
         # add title to top of figure
-        fig.suptitle(self.fig_title, fontsize='x-large', fontweight='bold')
+        fig.suptitle(self.fig_title, fontsize='x-large', fontweight='bold', wrap=True)
         fig.tight_layout(pad=3.0)
     
         output_figfile = os.path.join(self.out_dir, "{}.{}".format(self.fig_title, self.outputformat))
@@ -279,7 +279,7 @@ if __name__ == '__main__':
         series_col = 'data_year'
         
         # unique vals of this field will determine how many rows of charts
-        dfp[dfcol_rowsplittags] = dfp['measure'].map(simplify_measure)
+        # dfp[dfcol_rowsplittags] = dfp['measure'].map(simplify_measure)
         
         project_title = dfp['proj_desc'].iloc[0]
         
