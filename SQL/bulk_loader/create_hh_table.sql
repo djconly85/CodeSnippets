@@ -1,31 +1,28 @@
-CREATE TABLE {0} (  --table name
-	hhno INT,
-	fraction_with_jobs_outside REAL,
-	hhsize INT,
-	hhvehs SMALLINT,
-	hhwkrs SMALLINT,
-	hhftw SMALLINT,
-	hhptw SMALLINT,
-	hhret SMALLINT,
-	hhoad SMALLINT,
-	hhuni SMALLINT,
-	hhhsc SMALLINT,
-	hh515 SMALLINT,
-	hhcu5 SMALLINT,
-	hhincome INT,
-	hownrent SMALLINT,
-	hrestype SMALLINT,
-	hhparcel INT,
-	zone_id SMALLINT,
-	hhtaz SMALLINT,
-	hhexpfac SMALLINT,
-	samptype SMALLINT
-)
 
-	
-
+CREATE TABLE BCP_hh_TEST (
+	[hhno] [int] NULL,
+	[fraction_with_jobs_outside] [real] NULL,
+	[hhsize] [int] NULL,
+	[hhvehs] [int] NULL,
+	[hhwkrs] [int] NULL,
+	[hhftw] [int] NULL,
+	[hhptw] [int] NULL,
+	[hhret] [int] NULL,
+	[hhoad] [int] NULL,
+	[hhuni] [int] NULL,
+	[hhhsc] [int] NULL,
+	[hh515] [int] NULL,
+	[hhcu5] [int] NULL,
+	[hhincome] [int] NULL,
+	[hownrent] [int] NULL,
+	[hrestype] [int] NULL,
+	[hhparcel] [int] NULL,
+	[zone_id] [int] NULL,
+	[hhtaz] [int] NULL,
+	[hhexpfac] [int] NULL,
+	[samptype] [int] NULL
+) ON [PRIMARY]
 
 
-SELECT COLUMN_NAME,* 
-FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TABLE_NAME = 'raw_hh2035_111' AND TABLE_SCHEMA='dbo'
+--drop table BCP_hh_TEST
+--truncate table BCP_hh_TEST

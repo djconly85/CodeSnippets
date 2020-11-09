@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+#     path to bcpy source code:
+        # r'C:\Users\dconly\AppData\Local\ESRI\conda\envs\arcgispro-py3-clone\Lib\site-packages\bcpy'
 
 """
 Name: bcpy_testing.py
@@ -11,6 +13,8 @@ Purpose: bcpy is a python wrapper to integrate SQL Servers Bulk Copy Progam (BCP
 References:
     https://pypi.org/project/bcpy/
     "Q:\SACSIM19\Integration Data Summary\SACSIM19 Scripts\Python\model_outputs2sql_latest.py"
+    
+
         
 Author: Darren Conly
 Last Updated: Oct 2020
