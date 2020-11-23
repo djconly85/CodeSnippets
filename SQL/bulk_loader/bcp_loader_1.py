@@ -34,17 +34,6 @@ conxn_info = urllib.parse.quote_plus("DRIVER={0}; SERVER={1}; DATABASE={2}; Trus
 
 
 # STEP 1: RUN CREATE-TABLE SQL FILE TO CREATE TABLE WITH CORRECT, FINAL DATA TYPES
-
-
-    # def drop_table_if_exists(table_name,sql_engine):
-    #     engine = sqla.create_engine("mssql+pyodbc:///?odbc_connect={}".format(conxn_info))
-    #     conn = engine.connect()
-        
-    #     tables = list(engine.table_names())
-        
-    #     if table_name in tables:
-    #         drop_tbl_sql = "DROP TABLE {};".format(table_name)
-    #         conn.execute(drop_tbl_sql)
     
 def create_table(conn_info, sql_file, sql_table_name, overwrite=True):
     engine = sqla.create_engine("mssql+pyodbc:///?odbc_connect={}".format(conn_info))
@@ -126,7 +115,7 @@ if __name__ == '__main__':
     
     print("calling test table load command from python subprocess module")
     # subprocess.call(bcp_cmd)
-    subprocess.check_output(bcp_cmd) #shell=True
+    subprocess.check_output(bcp_cmd) 
     
     #subprocess.check_output(['echo', 'this is a test'], shell=True)
 
