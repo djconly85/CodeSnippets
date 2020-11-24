@@ -1,5 +1,5 @@
 
-CREATE TABLE BCP_hh_TEST (
+CREATE TABLE {} (
 	[hhno] [int] NULL,
 	[fraction_with_jobs_outside] [real] NULL,
 	[hhsize] [int] NULL,

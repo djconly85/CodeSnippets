@@ -100,7 +100,7 @@ if __name__ == '__main__':
         
     #-----------------RUN TEST SCRIPT-----------------
     print(f"creating table {test_tbl_name}...")
-    # create_table(conxn_info, test_tbl_sql, test_tbl_name, overwrite=True)
+    create_table(conxn_info, test_tbl_sql, test_tbl_name, overwrite=True)
     
     #'bcp test_trip_bcp in D:\SACSIM19\MTP2020\Conformity_Runs\run_2035_MTIP_Amd1_Baseline_v1\_trip.tsv -S sql-svr -d MTP2020 -T -q -c -t \t -F 2'
     # bcp BCP_hh_TEST in D:\\SACSIM19\\MTP2020\\Conformity_Runs\run_2035_MTIP_Amd1_Baseline_v1\\_household.tsv -S sql-svr -d MTP2020 -T -q -c -t \t -F 2
