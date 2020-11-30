@@ -1,0 +1,19 @@
+
+
+# THIS WORKS CORRECTLY, BUT WON'T LOAD LAST LINE OF DATA IF IT DOESN'T END IN A NEWLINE (\n) CHARACTER
+# with tab delimiter (TSV), test table, loading as characters (-c option stated)
+bcp test_tsv_bcp in C:\Users\dconly\GitRepos\CodeSnippets\SQL\bulk_loader\testTSV.tsv -S sql-svr -d MTP2020 -T -q -c -t \t -F 2
+
+
+# with tab delimiter (TSV), full trip table TSV
+bcp test_trip_bcp in D:\SACSIM19\MTP2020\Conformity_Runs\run_2035_MTIP_Amd1_Baseline_v1\_trip.tsv -S sql-svr -d MTP2020 -T -q -c -t \t -F 2
+
+# WORKS, BUT RESULTING FORMAT FILE NOT USEFUL
+# create an xml format file from a table
+bcp test_tsv_bcp format nul -T -n -f C:\Users\dconly\GitRepos\CodeSnippets\SQL\bulk_loader\test_tsv_tbl.fmt -S sql-svr -d MTP2020
+
+# SOMETIMES WORKS, BUT DOESN'T SEEM TO LOAD ALL ROWS (USING FORMAT FILE)
+# load tsv table using a format file
+bcp test_tsv_bcp in C:\Users\dconly\GitRepos\CodeSnippets\SQL\bulk_loader\testTSV.tsv -S sql-svr -d MTP2020 -T -q -k -t \t -F 2 -f C:\Users\dconly\GitRepos\CodeSnippets\SQL\bulk_loader\test_tsv_tbl.fmt
+bcp test_trip_bcp in D:\SACSIM19\MTP2020\Conformity_Runs\run_2035_MTIP_Amd1_Baseline_v1\_trip.tsv -S sql-svr -d MTP2020 -T -q -k -t \t -F 2 -f C:\Users\dconly\GitRepos\CodeSnippets\SQL\bulk_loader\trip_table_format.fmt
+bcp test_trip_bcp in C:\Users\dconly\GitRepos\CodeSnippets\SQL\bulk_loader\test_trip_tsv.tsv -S sql-svr -d MTP2020 -T -q -k -t \t -F 2 -f C:\Users\dconly\GitRepos\CodeSnippets\SQL\bulk_loader\trip_table_format.fmt

@@ -1,0 +1,743 @@
+measure_full,value,proj_desc,proj_inum,data_year,direction,measure
+EASTBOUND_calc_len,7256.507983355299,Richards Blvd- I-5 to 16th St,1,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,29.872483352246903,Richards Blvd- I-5 to 16th St,1,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,15.098407033901108,Richards Blvd- I-5 to 16th St,1,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.2946962155182202,Richards Blvd- I-5 to 16th St,1,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.2947054535094555,Richards Blvd- I-5 to 16th St,1,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.3965544495393858,Richards Blvd- I-5 to 16th St,1,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.349272497526981,Richards Blvd- I-5 to 16th St,1,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,7256.507983325678,Richards Blvd- I-5 to 16th St,1,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,30.32021253372123,Richards Blvd- I-5 to 16th St,1,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,15.23584236953111,Richards Blvd- I-5 to 16th St,1,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.2658271649970358,Richards Blvd- I-5 to 16th St,1,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.304271886577434,Richards Blvd- I-5 to 16th St,1,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.504193919070511,Richards Blvd- I-5 to 16th St,1,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.3500237203034011,Richards Blvd- I-5 to 16th St,1,2016,WESTBOUND,lottr_wknd
+NORTHBOUND_calc_len,11914.836550740582,16th St- Richards Blvd to US 50,2,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,24.100705413672607,16th St- Richards Blvd to US 50,2,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,12.103509432674906,16th St- Richards Blvd to US 50,2,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.319997412112943,16th St- Richards Blvd to US 50,2,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2974542580163722,16th St- Richards Blvd to US 50,2,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.7195910485801043,16th St- Richards Blvd to US 50,2,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.3321578299115096,16th St- Richards Blvd to US 50,2,2016,NORTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,8171.62976239311,Garden Highway- I-5 to Northgate Blvd,3,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,41.66366832393905,Garden Highway- I-5 to Northgate Blvd,3,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,17.87484462555449,Garden Highway- I-5 to Northgate Blvd,3,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.3247298298830035,Garden Highway- I-5 to Northgate Blvd,3,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2862206360969093,Garden Highway- I-5 to Northgate Blvd,3,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.8190134037017933,Garden Highway- I-5 to Northgate Blvd,3,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.324838314513428,Garden Highway- I-5 to Northgate Blvd,3,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,7787.798775745889,Garden Highway- I-5 to Northgate Blvd,3,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,43.07990493168609,Garden Highway- I-5 to Northgate Blvd,3,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,26.399872671414755,Garden Highway- I-5 to Northgate Blvd,3,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.2707311611463543,Garden Highway- I-5 to Northgate Blvd,3,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.228660789361536,Garden Highway- I-5 to Northgate Blvd,3,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.389503051362205,Garden Highway- I-5 to Northgate Blvd,3,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.2582280991995307,Garden Highway- I-5 to Northgate Blvd,3,2016,SOUTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,11139.915206930442,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,27.89084393558393,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,15.496765513144075,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.4532770337774028,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.3808798196697714,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.475355169231615,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.3840397051338011,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,11139.915205269755,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,27.47633646615855,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,13.128434275762528,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.38733831927566,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.3433305671852156,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.502445684583762,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.3736349653500408,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2016,NORTHBOUND,lottr_wknd
+EASTBOUND_calc_len,16388.449852569524,Florin Rd- I-5 to Franklin Blvd,5,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,31.599141045741977,Florin Rd- I-5 to Franklin Blvd,5,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,16.69477722072003,Florin Rd- I-5 to Franklin Blvd,5,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.379753003985134,Florin Rd- I-5 to Franklin Blvd,5,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.3747393324750439,Florin Rd- I-5 to Franklin Blvd,5,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.4027044419502732,Florin Rd- I-5 to Franklin Blvd,5,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3927483067716722,Florin Rd- I-5 to Franklin Blvd,5,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,16388.44984841253,Florin Rd- I-5 to Franklin Blvd,5,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,32.22264264693003,Florin Rd- I-5 to Franklin Blvd,5,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,18.312413332640737,Florin Rd- I-5 to Franklin Blvd,5,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.3485914718080247,Florin Rd- I-5 to Franklin Blvd,5,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.3351051968538419,Florin Rd- I-5 to Franklin Blvd,5,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3578563404257635,Florin Rd- I-5 to Franklin Blvd,5,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.3687232232682511,Florin Rd- I-5 to Franklin Blvd,5,2016,WESTBOUND,lottr_wknd
+SOUTHBOUND_calc_len,5432.235065436001,65th St- Folsom Blvd to 14th Ave,6,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,30.429941955008506,65th St- Folsom Blvd to 14th Ave,6,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,15.106293334150664,65th St- Folsom Blvd to 14th Ave,6,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.5239585167912817,65th St- Folsom Blvd to 14th Ave,6,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.4715866042043813,65th St- Folsom Blvd to 14th Ave,6,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.4682404823099031,65th St- Folsom Blvd to 14th Ave,6,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.4719651790454402,65th St- Folsom Blvd to 14th Ave,6,2016,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,5432.235065110252,65th St- Folsom Blvd to 14th Ave,6,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,29.7489314798179,65th St- Folsom Blvd to 14th Ave,6,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,13.211655347574203,65th St- Folsom Blvd to 14th Ave,6,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.502088616750927,65th St- Folsom Blvd to 14th Ave,6,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.64871424484335,65th St- Folsom Blvd to 14th Ave,6,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.6509707776104943,65th St- Folsom Blvd to 14th Ave,6,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.6280930635754791,65th St- Folsom Blvd to 14th Ave,6,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,13462.35028518202,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,35.153974769622515,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,17.61664144444164,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.297164666695315,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2621852339772315,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.3429350933716035,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.3543949695558524,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,13462.350284109572,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,32.18168586328644,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,13.820734843992707,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.2833198125470262,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2906148152380295,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.7105261098091984,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.3237991905940139,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,37024.25701895051,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,42.81303962156536,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,21.431868975023775,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.2324831758624708,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2734671808786682,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.4718932319602307,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.2503652780645125,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,33081.03589444128,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,42.41094149147813,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,21.788055876375132,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.4905582990678712,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.257799738705929,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.3475457867954581,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.2558045545187775,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2016,NORTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,50545.784962641075,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,36.387190833637874,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,17.053192628357618,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.2587882228439635,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2995708907105792,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.415333899293627,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.3103589576019872,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,48638.94034496799,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,37.22898114263513,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,19.464846344893935,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.26070837030033,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2605332448817992,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.32989184227629,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.3032747666647713,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2016,SOUTHBOUND,lottr_wknd
+EASTBOUND_calc_len,29252.419186522482,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,39.8835431758779,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,19.9899563414748,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.3109714030889597,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.3710730088576062,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.5613562760042043,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3576485521318995,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,29252.419186396215,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,39.95753921852129,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,22.05610809406379,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.4593546872896572,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.3232506265059432,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3607627826461752,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.3450952957951714,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2016,WESTBOUND,lottr_wknd
+NORTHBOUND_calc_len,13734.161188528187,Auburn Blvd- Watt Ave to Madison Ave,11,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,34.16226863956728,Auburn Blvd- Watt Ave to Madison Ave,11,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,18.87661041013373,Auburn Blvd- Watt Ave to Madison Ave,11,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.434498233380497,Auburn Blvd- Watt Ave to Madison Ave,11,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.4003887846017127,Auburn Blvd- Watt Ave to Madison Ave,11,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.4716061563598815,Auburn Blvd- Watt Ave to Madison Ave,11,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.3942116053040752,Auburn Blvd- Watt Ave to Madison Ave,11,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,13734.161188304373,Auburn Blvd- Watt Ave to Madison Ave,11,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,36.58466241301315,Auburn Blvd- Watt Ave to Madison Ave,11,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,19.50064170415481,Auburn Blvd- Watt Ave to Madison Ave,11,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.4697047028489771,Auburn Blvd- Watt Ave to Madison Ave,11,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.3898039609616553,Auburn Blvd- Watt Ave to Madison Ave,11,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.5310581569273771,Auburn Blvd- Watt Ave to Madison Ave,11,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.3678694483726006,Auburn Blvd- Watt Ave to Madison Ave,11,2016,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,13489.352068356497,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,42.426178220741384,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,23.918364676816402,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.1629247853278624,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2063387385402213,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.3125282227086066,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.253215373928369,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,13489.352068273904,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,44.035068800290574,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,21.448648932214624,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.692406943869035,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2288251962739276,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.2660028062966688,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.2372882846290458,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2016,SOUTHBOUND,lottr_wknd
+EASTBOUND_calc_len,24903.471600503577,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,34.632082546226954,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,19.23373197481069,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.3585957998514644,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.3472566971289666,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.3882258764491169,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3965691285788997,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,24903.471599919627,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,33.3095333183374,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,18.48563687828792,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.318785501179378,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.363133490715495,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.4161554393606832,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.4063584594375342,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2016,WESTBOUND,lottr_wknd
+WESTBOUND_calc_len,10991.927274858026,US-50- I-5 to SR-99,14,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,63.15565627659613,US-50- I-5 to SR-99,14,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,27.968974764739954,US-50- I-5 to SR-99,14,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.3565834629680265,US-50- I-5 to SR-99,14,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.1423794267930372,US-50- I-5 to SR-99,14,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,2.3532045428196153,US-50- I-5 to SR-99,14,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.0698544486866857,US-50- I-5 to SR-99,14,2016,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,10991.927273560015,US-50- I-5 to SR-99,14,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,63.56890851718346,US-50- I-5 to SR-99,14,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,30.872742724767818,US-50- I-5 to SR-99,14,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.1422258027494154,US-50- I-5 to SR-99,14,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.1108223129394263,US-50- I-5 to SR-99,14,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,2.166429030513509,US-50- I-5 to SR-99,14,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.057903877074679,US-50- I-5 to SR-99,14,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,28121.200020801807,US-50- SR-99 to Watt Avenue,15,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,67.20137530842597,US-50- SR-99 to Watt Avenue,15,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,31.99713782402211,US-50- SR-99 to Watt Avenue,15,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.555146939202168,US-50- SR-99 to Watt Avenue,15,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.1890073706378859,US-50- SR-99 to Watt Avenue,15,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,2.047394484421192,US-50- SR-99 to Watt Avenue,15,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.060643550794392,US-50- SR-99 to Watt Avenue,15,2016,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,28121.20002042364,US-50- SR-99 to Watt Avenue,15,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,68.05633740095682,US-50- SR-99 to Watt Avenue,15,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,41.22226090539318,US-50- SR-99 to Watt Avenue,15,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.1713833877755677,US-50- SR-99 to Watt Avenue,15,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.0437798799024474,US-50- SR-99 to Watt Avenue,15,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.6220777104193203,US-50- SR-99 to Watt Avenue,15,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.0554708874983751,US-50- SR-99 to Watt Avenue,15,2016,EASTBOUND,lottr_wknd
+EASTBOUND_calc_len,43825.83903287047,SR-51- US-50 to I-80,16,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,63.447988043508126,SR-51- US-50 to I-80,16,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,26.8010306962567,SR-51- US-50 to I-80,16,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.1376471526457117,SR-51- US-50 to I-80,16,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.212807718793365,SR-51- US-50 to I-80,16,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.7282580518593595,SR-51- US-50 to I-80,16,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.4927713184766163,SR-51- US-50 to I-80,16,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,39584.109393799685,SR-51- US-50 to I-80,16,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,63.80732382991215,SR-51- US-50 to I-80,16,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,32.55143512963856,SR-51- US-50 to I-80,16,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.4148003720189377,SR-51- US-50 to I-80,16,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.2092030298811267,SR-51- US-50 to I-80,16,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3022494696404854,SR-51- US-50 to I-80,16,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.267930510610734,SR-51- US-50 to I-80,16,2016,WESTBOUND,lottr_wknd
+SOUTHBOUND_calc_len,10907.774283204522,I-5- US-50 to Richards Blvd,17,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,60.911625832114446,I-5- US-50 to Richards Blvd,17,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,27.681080941470988,I-5- US-50 to Richards Blvd,17,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.1161341501222175,I-5- US-50 to Richards Blvd,17,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.1314048015039286,I-5- US-50 to Richards Blvd,17,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,2.6819977205227543,I-5- US-50 to Richards Blvd,17,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.0302145300331258,I-5- US-50 to Richards Blvd,17,2016,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,10907.774282466984,I-5- US-50 to Richards Blvd,17,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,60.79616266271408,I-5- US-50 to Richards Blvd,17,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,30.121587433011214,I-5- US-50 to Richards Blvd,17,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.1177302862496077,I-5- US-50 to Richards Blvd,17,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.0293496418490666,I-5- US-50 to Richards Blvd,17,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,2.0499519846919667,I-5- US-50 to Richards Blvd,17,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.028215244923597,I-5- US-50 to Richards Blvd,17,2016,NORTHBOUND,lottr_wknd
+EASTBOUND_calc_len,6060.002442797001,SR-70- N. Beale Rd to 12th St,18,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,48.28750019,SR-70- N. Beale Rd to 12th St,18,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,17.56130405,SR-70- N. Beale Rd to 12th St,18,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.329135537,SR-70- N. Beale Rd to 12th St,18,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.388555408,SR-70- N. Beale Rd to 12th St,18,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.8176634310000002,SR-70- N. Beale Rd to 12th St,18,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.378604054,SR-70- N. Beale Rd to 12th St,18,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,5961.463480926373,SR-70- N. Beale Rd to 12th St,18,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,50.896999740000005,SR-70- N. Beale Rd to 12th St,18,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,23.08201934,SR-70- N. Beale Rd to 12th St,18,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.257394433,SR-70- N. Beale Rd to 12th St,18,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.329279304,SR-70- N. Beale Rd to 12th St,18,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.403495669,SR-70- N. Beale Rd to 12th St,18,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.374935031,SR-70- N. Beale Rd to 12th St,18,2016,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,4976.621837102379,US-50- Mosquito Rd to Spring Street,19,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,45.18308349828117,US-50- Mosquito Rd to Spring Street,19,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,31.848979670035018,US-50- Mosquito Rd to Spring Street,19,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.2242486975947473,US-50- Mosquito Rd to Spring Street,19,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.301208905320124,US-50- Mosquito Rd to Spring Street,19,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.2746499978202366,US-50- Mosquito Rd to Spring Street,19,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.2020713033683155,US-50- Mosquito Rd to Spring Street,19,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,4976.621837096503,US-50- Mosquito Rd to Spring Street,19,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,44.46217417842289,US-50- Mosquito Rd to Spring Street,19,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,21.05008196379561,US-50- Mosquito Rd to Spring Street,19,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.3278733002093104,US-50- Mosquito Rd to Spring Street,19,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.4597961234884564,US-50- Mosquito Rd to Spring Street,19,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3077607513791958,US-50- Mosquito Rd to Spring Street,19,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.877548456790401,US-50- Mosquito Rd to Spring Street,19,2016,WESTBOUND,lottr_wknd
+NORTHBOUND_calc_len,41093.140887290225,SR-99- Calvine Rd to US-50,20,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,64.2749161648644,SR-99- Calvine Rd to US-50,20,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,35.78649694397149,SR-99- Calvine Rd to US-50,20,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.7488547473951161,SR-99- Calvine Rd to US-50,20,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.0892090777475392,SR-99- Calvine Rd to US-50,20,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.0555846300576657,SR-99- Calvine Rd to US-50,20,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.0747356863322823,SR-99- Calvine Rd to US-50,20,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,41093.14088248353,SR-99- Calvine Rd to US-50,20,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,64.15131333093709,SR-99- Calvine Rd to US-50,20,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,32.399942295335535,SR-99- Calvine Rd to US-50,20,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.0338766358755942,SR-99- Calvine Rd to US-50,20,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.0704684753197586,SR-99- Calvine Rd to US-50,20,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.4768400610910375,SR-99- Calvine Rd to US-50,20,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.047861679939257,SR-99- Calvine Rd to US-50,20,2016,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,10454.34473364014,I-5- Richards Bl. to I-80,21,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,63.735745993555554,I-5- Richards Bl. to I-80,21,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,51.28230240411076,I-5- Richards Bl. to I-80,21,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.0243896183403571,I-5- Richards Bl. to I-80,21,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.0237537288931204,I-5- Richards Bl. to I-80,21,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.1532871848464334,I-5- Richards Bl. to I-80,21,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.0250847168795914,I-5- Richards Bl. to I-80,21,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,10454.344733523521,I-5- Richards Bl. to I-80,21,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,63.09716735824633,I-5- Richards Bl. to I-80,21,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,32.393562584971406,I-5- Richards Bl. to I-80,21,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.3477969395300629,I-5- Richards Bl. to I-80,21,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.0313134030797506,I-5- Richards Bl. to I-80,21,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,2.0497882203839275,I-5- Richards Bl. to I-80,21,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.0269513982522147,I-5- Richards Bl. to I-80,21,2016,SOUTHBOUND,lottr_wknd
+WESTBOUND_calc_len,54296.580501594726,I80- Solano CL to US50,22,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,65.21689560174795,I80- Solano CL to US50,22,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,48.95059099042168,I80- Solano CL to US50,22,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.225049190572824,I80- Solano CL to US50,22,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.1302323498436175,I80- Solano CL to US50,22,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.261018832429238,I80- Solano CL to US50,22,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.4217435289404012,I80- Solano CL to US50,22,2016,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,54171.24043372305,I80- Solano CL to US50,22,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,66.5904015386142,I80- Solano CL to US50,22,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,37.801252205683504,I80- Solano CL to US50,22,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.0374986388469123,I80- Solano CL to US50,22,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.219590083956919,I80- Solano CL to US50,22,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.7561271465944441,I80- Solano CL to US50,22,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.10276245343815,I80- Solano CL to US50,22,2016,EASTBOUND,lottr_wknd
+NORTHBOUND_calc_len,13713.404069003715,SR65- Blue Oaks Bl to I80,23,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,65.37952894577883,SR65- Blue Oaks Bl to I80,23,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,43.05699516994104,SR65- Blue Oaks Bl to I80,23,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.0996539805828653,SR65- Blue Oaks Bl to I80,23,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.1825344035326693,SR65- Blue Oaks Bl to I80,23,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.2628709760029169,SR65- Blue Oaks Bl to I80,23,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.1156743733023002,SR65- Blue Oaks Bl to I80,23,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,13087.519500879574,SR65- Blue Oaks Bl to I80,23,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,61.84241751104935,SR65- Blue Oaks Bl to I80,23,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,33.72162332211561,SR65- Blue Oaks Bl to I80,23,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.341388433654454,SR65- Blue Oaks Bl to I80,23,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2280612314654016,SR65- Blue Oaks Bl to I80,23,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.3676523745926652,SR65- Blue Oaks Bl to I80,23,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.3841222743665507,SR65- Blue Oaks Bl to I80,23,2016,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,10565.976420425197,SR-99- Lincoln Rd to SR-20,24,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,41.68870830525723,SR-99- Lincoln Rd to SR-20,24,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,22.26584623590548,SR-99- Lincoln Rd to SR-20,24,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.227966709627754,SR-99- Lincoln Rd to SR-20,24,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.252478090619533,SR-99- Lincoln Rd to SR-20,24,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.2921953803910797,SR-99- Lincoln Rd to SR-20,24,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.3078444243283243,SR-99- Lincoln Rd to SR-20,24,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,10565.976420165789,SR-99- Lincoln Rd to SR-20,24,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,42.47354688021801,SR-99- Lincoln Rd to SR-20,24,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,22.875526150576984,SR-99- Lincoln Rd to SR-20,24,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.247752342361544,SR-99- Lincoln Rd to SR-20,24,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.226847674098244,SR-99- Lincoln Rd to SR-20,24,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.2612096103158252,SR-99- Lincoln Rd to SR-20,24,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.2967887444928037,SR-99- Lincoln Rd to SR-20,24,2016,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,33066.566469255486,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,41.09205662026965,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,20.951796181439256,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.2555273781947305,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.3889583110072612,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.3896630627390518,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.2596434041505389,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,33066.56646908961,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,42.53237845252967,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,24.4833400245451,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.3826798424410855,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.199770630926368,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.2507084260105643,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.246118377360411,Hazel Ave- Folsom Blvd to Placer County Line,25,2016,SOUTHBOUND,lottr_wknd
+EASTBOUND_calc_len,31519.375553572572,Greenback Lane- I-80 to Hazel Ave,26,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,35.55478128599328,Greenback Lane- I-80 to Hazel Ave,26,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,19.899075385847073,Greenback Lane- I-80 to Hazel Ave,26,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.2929179296911182,Greenback Lane- I-80 to Hazel Ave,26,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.2721377061399755,Greenback Lane- I-80 to Hazel Ave,26,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.3084653159719188,Greenback Lane- I-80 to Hazel Ave,26,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3446777459363466,Greenback Lane- I-80 to Hazel Ave,26,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,31519.375553458973,Greenback Lane- I-80 to Hazel Ave,26,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,35.926881921188475,Greenback Lane- I-80 to Hazel Ave,26,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,20.10167758645723,Greenback Lane- I-80 to Hazel Ave,26,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.2749688984761816,Greenback Lane- I-80 to Hazel Ave,26,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.2887596974043356,Greenback Lane- I-80 to Hazel Ave,26,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3126235038128413,Greenback Lane- I-80 to Hazel Ave,26,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.3429577526653864,Greenback Lane- I-80 to Hazel Ave,26,2016,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,55508.42376485418,Madison Ave- Watt Ave to Greenback Lane,27,2016,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,38.682466104912834,Madison Ave- Watt Ave to Greenback Lane,27,2016,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,21.082986335221403,Madison Ave- Watt Ave to Greenback Lane,27,2016,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.2761282378785823,Madison Ave- Watt Ave to Greenback Lane,27,2016,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.3131427602088528,Madison Ave- Watt Ave to Greenback Lane,27,2016,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.3526637041411909,Madison Ave- Watt Ave to Greenback Lane,27,2016,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3589415407621526,Madison Ave- Watt Ave to Greenback Lane,27,2016,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,55258.295919331336,Madison Ave- Watt Ave to Greenback Lane,27,2016,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,39.19047392758057,Madison Ave- Watt Ave to Greenback Lane,27,2016,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,22.10390917744282,Madison Ave- Watt Ave to Greenback Lane,27,2016,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.3030049766967797,Madison Ave- Watt Ave to Greenback Lane,27,2016,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.2764039787309374,Madison Ave- Watt Ave to Greenback Lane,27,2016,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.317591093307586,Madison Ave- Watt Ave to Greenback Lane,27,2016,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.3487688409814809,Madison Ave- Watt Ave to Greenback Lane,27,2016,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,7608.932291367473,Richards Blvd- I-5 to 16th St,1,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,33.78180856488462,Richards Blvd- I-5 to 16th St,1,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,13.021602386023424,Richards Blvd- I-5 to 16th St,1,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.3455540934099333,Richards Blvd- I-5 to 16th St,1,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.3432946329134319,Richards Blvd- I-5 to 16th St,1,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.5794844424003647,Richards Blvd- I-5 to 16th St,1,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3885470960493365,Richards Blvd- I-5 to 16th St,1,2019,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,7368.16438093661,Richards Blvd- I-5 to 16th St,1,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,33.97905406297641,Richards Blvd- I-5 to 16th St,1,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,13.984350909304867,Richards Blvd- I-5 to 16th St,1,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.2572473341618744,Richards Blvd- I-5 to 16th St,1,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.3133270131485575,Richards Blvd- I-5 to 16th St,1,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.7436428075616799,Richards Blvd- I-5 to 16th St,1,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.2923468772272515,Richards Blvd- I-5 to 16th St,1,2019,WESTBOUND,lottr_wknd
+NORTHBOUND_calc_len,11914.83655107342,16th St- Richards Blvd to US 50,2,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,24.38846696020788,16th St- Richards Blvd to US 50,2,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,12.04825038341062,16th St- Richards Blvd to US 50,2,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.3035577141654873,16th St- Richards Blvd to US 50,2,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2929637246436543,16th St- Richards Blvd to US 50,2,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.6814951467324517,16th St- Richards Blvd to US 50,2,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.3306880156431764,16th St- Richards Blvd to US 50,2,2019,NORTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,9588.978155138535,Garden Highway- I-5 to Northgate Blvd,3,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,41.172427346833736,Garden Highway- I-5 to Northgate Blvd,3,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,20.40902485595084,Garden Highway- I-5 to Northgate Blvd,3,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.3409350427765578,Garden Highway- I-5 to Northgate Blvd,3,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.3415845660829973,Garden Highway- I-5 to Northgate Blvd,3,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.6589237685681972,Garden Highway- I-5 to Northgate Blvd,3,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.3459193908329983,Garden Highway- I-5 to Northgate Blvd,3,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,9426.596183208101,Garden Highway- I-5 to Northgate Blvd,3,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,41.24072212067868,Garden Highway- I-5 to Northgate Blvd,3,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,26.488607321612314,Garden Highway- I-5 to Northgate Blvd,3,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.3443262384724748,Garden Highway- I-5 to Northgate Blvd,3,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.3147342027544688,Garden Highway- I-5 to Northgate Blvd,3,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.3952145494557435,Garden Highway- I-5 to Northgate Blvd,3,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.2956105089214274,Garden Highway- I-5 to Northgate Blvd,3,2019,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,11139.915205278674,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,29.357135192361696,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,12.393781551897192,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.4218433367038485,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.406471489288776,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.5152832243558927,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.401907818520325,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,11003.219499613115,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,28.84026500938063,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,14.74367296447416,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.4467763748895868,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.4660624382153145,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.512007710679872,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.4994918588446864,Stockton Blvd- Alhambra Blvd to 14th Ave,4,2019,SOUTHBOUND,lottr_wknd
+EASTBOUND_calc_len,16388.44984811012,Florin Rd- I-5 to Franklin Blvd,5,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,30.11197399609419,Florin Rd- I-5 to Franklin Blvd,5,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,16.736348585678666,Florin Rd- I-5 to Franklin Blvd,5,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.3720918969046483,Florin Rd- I-5 to Franklin Blvd,5,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.374037578119478,Florin Rd- I-5 to Franklin Blvd,5,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.3372393634607007,Florin Rd- I-5 to Franklin Blvd,5,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3638259884438997,Florin Rd- I-5 to Franklin Blvd,5,2019,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,16388.449848001932,Florin Rd- I-5 to Franklin Blvd,5,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,30.13824873178287,Florin Rd- I-5 to Franklin Blvd,5,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,18.063400612312865,Florin Rd- I-5 to Franklin Blvd,5,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.3124941890371917,Florin Rd- I-5 to Franklin Blvd,5,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.2973954525605031,Florin Rd- I-5 to Franklin Blvd,5,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.334690043087202,Florin Rd- I-5 to Franklin Blvd,5,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.332128012741318,Florin Rd- I-5 to Franklin Blvd,5,2019,WESTBOUND,lottr_wknd
+SOUTHBOUND_calc_len,5432.235065517333,65th St- Folsom Blvd to 14th Ave,6,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,29.31065325532112,65th St- Folsom Blvd to 14th Ave,6,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,13.893871452657898,65th St- Folsom Blvd to 14th Ave,6,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.5106091735001737,65th St- Folsom Blvd to 14th Ave,6,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.498881465510927,65th St- Folsom Blvd to 14th Ave,6,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.5746026997318043,65th St- Folsom Blvd to 14th Ave,6,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.508049293568691,65th St- Folsom Blvd to 14th Ave,6,2019,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,5432.235065516702,65th St- Folsom Blvd to 14th Ave,6,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,28.498215982432296,65th St- Folsom Blvd to 14th Ave,6,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,13.299833734742874,65th St- Folsom Blvd to 14th Ave,6,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.4566471945633612,65th St- Folsom Blvd to 14th Ave,6,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.5630356141529562,65th St- Folsom Blvd to 14th Ave,6,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.6151351985877642,65th St- Folsom Blvd to 14th Ave,6,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.6372736778960935,65th St- Folsom Blvd to 14th Ave,6,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,13462.350284171544,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,35.42902771092181,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,17.560256332283622,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.2622436124346974,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2195905590551146,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.3529589795441568,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.3248400567256589,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,13462.350283981781,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,32.24643109276582,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,13.729405746765138,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.2540316009438603,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2906846951990023,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.6343186333183206,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.3447320581079498,Howe Ave-Power Inn Rd- Fair Oaks Blvd to 14th Ave,7,2019,NORTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,37024.25701725747,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,42.759361524989224,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,21.488943330712413,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.408501979715837,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2503336610643077,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.3068023053272,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.2469085381000855,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,36895.68965442142,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,43.294821226711534,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,20.917814256011795,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.2499394304951834,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2850033148102993,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.3851824982736989,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.264290057046177,South Watt Ave- Elk Grove Florin Rd- Folsom Blvd to Calvine Road,8,2019,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,50545.78496249419,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,38.114591273743216,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,16.68262447569319,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.2622946711861267,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2841197437790561,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.4350353705045444,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.298822483199319,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,48677.62512413898,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,38.808252904420804,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,19.727917173331928,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.2841627466722096,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2743927698206956,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.375344418952147,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.2945282849812891,Watt Ave- Folsom Blvd to Elkhorn Blvd,9,2019,SOUTHBOUND,lottr_wknd
+WESTBOUND_calc_len,29252.419186134706,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,40.55250492516943,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,21.957473340855685,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.3595940539887295,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.3250860777822344,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3530415144398846,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.3191070774735802,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,29252.41918609163,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,40.661625093823496,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,23.057128009826375,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.3335921808576037,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.3194414171734015,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.3520339779052082,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3200999811122462,Fair Oaks Blvd- Howe Ave to Manzanita Ave,10,2019,EASTBOUND,lottr_wknd
+NORTHBOUND_calc_len,13734.161188559721,Auburn Blvd- Watt Ave to Madison Ave,11,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,39.13708136391601,Auburn Blvd- Watt Ave to Madison Ave,11,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,17.87467979041554,Auburn Blvd- Watt Ave to Madison Ave,11,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.5167426426779536,Auburn Blvd- Watt Ave to Madison Ave,11,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.4375059350286663,Auburn Blvd- Watt Ave to Madison Ave,11,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.410657170236262,Auburn Blvd- Watt Ave to Madison Ave,11,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.4317138938321197,Auburn Blvd- Watt Ave to Madison Ave,11,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,13734.161188559547,Auburn Blvd- Watt Ave to Madison Ave,11,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,38.70316529549516,Auburn Blvd- Watt Ave to Madison Ave,11,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,18.435225586426238,Auburn Blvd- Watt Ave to Madison Ave,11,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.4462731654047527,Auburn Blvd- Watt Ave to Madison Ave,11,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.4007640235850634,Auburn Blvd- Watt Ave to Madison Ave,11,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.4982933485435446,Auburn Blvd- Watt Ave to Madison Ave,11,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.404872712201518,Auburn Blvd- Watt Ave to Madison Ave,11,2019,SOUTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,13489.35206826539,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,44.64983459461642,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,23.07338220150684,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.514368877487995,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.1907481117262084,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.2332824350070137,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.2708412203188972,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,13489.3520681744,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,42.84464677061298,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,23.206540509132324,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.170446423772053,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.185365015202097,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.3416003726401193,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.2181141279401317,Sunrise Blvd- Madison Ave to Gold Country Blvd,12,2019,NORTHBOUND,lottr_wknd
+EASTBOUND_calc_len,24903.47160066732,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,37.25915672076036,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,18.86596183846727,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.3528990871458875,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.3252373313689674,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.3851030454704594,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3841748949685941,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,24903.47159987439,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,36.20252272427229,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,17.906286472938735,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.3317069801811694,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.339091283286134,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3942221758082238,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.3883374466205523,Florin Road- Franklin Blvd to Elk Grove Florin Road-South Watt Ave,13,2019,WESTBOUND,lottr_wknd
+WESTBOUND_calc_len,10991.927273791525,US-50- I-5 to SR-99,14,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,64.96169632944344,US-50- I-5 to SR-99,14,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,27.71663813141371,US-50- I-5 to SR-99,14,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.380264420725677,US-50- I-5 to SR-99,14,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.269975733445468,US-50- I-5 to SR-99,14,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.8723735928066043,US-50- I-5 to SR-99,14,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.0795819942212836,US-50- I-5 to SR-99,14,2019,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,10991.92727360223,US-50- I-5 to SR-99,14,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,66.69202798039098,US-50- I-5 to SR-99,14,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,26.564215541803392,US-50- I-5 to SR-99,14,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.1745531095557284,US-50- I-5 to SR-99,14,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.3113351023962168,US-50- I-5 to SR-99,14,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,2.0306688081655637,US-50- I-5 to SR-99,14,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.0760614310287628,US-50- I-5 to SR-99,14,2019,EASTBOUND,lottr_wknd
+EASTBOUND_calc_len,28121.20002056916,US-50- SR-99 to Watt Avenue,15,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,70.18788475334314,US-50- SR-99 to Watt Avenue,15,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,39.48307804406443,US-50- SR-99 to Watt Avenue,15,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.1318444782088346,US-50- SR-99 to Watt Avenue,15,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.05489737879654,US-50- SR-99 to Watt Avenue,15,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.6015091609710475,US-50- SR-99 to Watt Avenue,15,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.053104468683653,US-50- SR-99 to Watt Avenue,15,2019,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,28121.200020495853,US-50- SR-99 to Watt Avenue,15,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,69.07681812152491,US-50- SR-99 to Watt Avenue,15,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,32.27566506557892,US-50- SR-99 to Watt Avenue,15,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.6636326235802108,US-50- SR-99 to Watt Avenue,15,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.3553187627867915,US-50- SR-99 to Watt Avenue,15,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.8749061649343726,US-50- SR-99 to Watt Avenue,15,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.0565239052844375,US-50- SR-99 to Watt Avenue,15,2019,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,43767.07456815331,SR-51- US-50 to I-80,16,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,67.19728160500215,SR-51- US-50 to I-80,16,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,26.725281441821515,SR-51- US-50 to I-80,16,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.111377708488519,SR-51- US-50 to I-80,16,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.2362554752849606,SR-51- US-50 to I-80,16,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.8278558727484842,SR-51- US-50 to I-80,16,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3194412567821983,SR-51- US-50 to I-80,16,2019,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,39651.90029574781,SR-51- US-50 to I-80,16,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,66.538495996923,SR-51- US-50 to I-80,16,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,30.94639771905588,SR-51- US-50 to I-80,16,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.6722915473371744,SR-51- US-50 to I-80,16,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.1951790759921388,SR-51- US-50 to I-80,16,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.374803969503601,SR-51- US-50 to I-80,16,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.2740565263904295,SR-51- US-50 to I-80,16,2019,WESTBOUND,lottr_wknd
+NORTHBOUND_calc_len,10907.774282498707,I-5- US-50 to Richards Blvd,17,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,62.031713792192505,I-5- US-50 to Richards Blvd,17,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,22.16182853601964,I-5- US-50 to Richards Blvd,17,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.1628357438176387,I-5- US-50 to Richards Blvd,17,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.0966173536040842,I-5- US-50 to Richards Blvd,17,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.9110305021771827,I-5- US-50 to Richards Blvd,17,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.0374401061906262,I-5- US-50 to Richards Blvd,17,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,10907.774282495755,I-5- US-50 to Richards Blvd,17,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,62.134899548558074,I-5- US-50 to Richards Blvd,17,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,25.495104655603143,I-5- US-50 to Richards Blvd,17,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.0908642948472826,I-5- US-50 to Richards Blvd,17,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2904037061132199,I-5- US-50 to Richards Blvd,17,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,2.4827431694192934,I-5- US-50 to Richards Blvd,17,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.0357590627397382,I-5- US-50 to Richards Blvd,17,2019,SOUTHBOUND,lottr_wknd
+EASTBOUND_calc_len,6075.539328480106,SR-70- N. Beale Rd to 12th St,18,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,45.2697902526703,SR-70- N. Beale Rd to 12th St,18,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,15.028401411122742,SR-70- N. Beale Rd to 12th St,18,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.5347002978010722,SR-70- N. Beale Rd to 12th St,18,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.4139626521961184,SR-70- N. Beale Rd to 12th St,18,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.6244441094571003,SR-70- N. Beale Rd to 12th St,18,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3532567379402163,SR-70- N. Beale Rd to 12th St,18,2019,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,6075.539328467945,SR-70- N. Beale Rd to 12th St,18,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,50.09999847000001,SR-70- N. Beale Rd to 12th St,18,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,20.72476106,SR-70- N. Beale Rd to 12th St,18,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.2092289924621582,SR-70- N. Beale Rd to 12th St,18,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.3103569746017456,SR-70- N. Beale Rd to 12th St,18,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.368728518486023,SR-70- N. Beale Rd to 12th St,18,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.4369758367538452,SR-70- N. Beale Rd to 12th St,18,2019,WESTBOUND,lottr_wknd
+WESTBOUND_calc_len,4976.621837611148,US-50- Mosquito Rd to Spring Street,19,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,45.52094676992576,US-50- Mosquito Rd to Spring Street,19,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,19.40503963117699,US-50- Mosquito Rd to Spring Street,19,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.3888653717240507,US-50- Mosquito Rd to Spring Street,19,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.4839886456232467,US-50- Mosquito Rd to Spring Street,19,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.4930489638041242,US-50- Mosquito Rd to Spring Street,19,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,2.2233544958168334,US-50- Mosquito Rd to Spring Street,19,2019,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,4976.621837104797,US-50- Mosquito Rd to Spring Street,19,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,46.76674883409053,US-50- Mosquito Rd to Spring Street,19,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,31.299529867820368,US-50- Mosquito Rd to Spring Street,19,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.2076777854468432,US-50- Mosquito Rd to Spring Street,19,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.2790704891195026,US-50- Mosquito Rd to Spring Street,19,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.2813166744540139,US-50- Mosquito Rd to Spring Street,19,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.2665885247358306,US-50- Mosquito Rd to Spring Street,19,2019,EASTBOUND,lottr_wknd
+NORTHBOUND_calc_len,41093.140882495936,SR-99- Calvine Rd to US-50,20,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,66.2494297471741,SR-99- Calvine Rd to US-50,20,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,31.423344864280978,SR-99- Calvine Rd to US-50,20,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.8086218042224607,SR-99- Calvine Rd to US-50,20,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.1123283865032665,SR-99- Calvine Rd to US-50,20,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.0748721577823737,SR-99- Calvine Rd to US-50,20,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.100350784886169,SR-99- Calvine Rd to US-50,20,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,41093.140882419255,SR-99- Calvine Rd to US-50,20,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,67.50903621161189,SR-99- Calvine Rd to US-50,20,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,32.56994921859997,SR-99- Calvine Rd to US-50,20,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.0389083599373483,SR-99- Calvine Rd to US-50,20,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.0983295290769242,SR-99- Calvine Rd to US-50,20,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.453052678281056,SR-99- Calvine Rd to US-50,20,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.055867553825209,SR-99- Calvine Rd to US-50,20,2019,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,10454.34473359812,I-5- Richards Bl. to I-80,21,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,65.04029494582494,I-5- Richards Bl. to I-80,21,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,48.32141950869381,I-5- Richards Bl. to I-80,21,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.0306146472615152,I-5- Richards Bl. to I-80,21,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.0521132117166978,I-5- Richards Bl. to I-80,21,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.120529190929624,I-5- Richards Bl. to I-80,21,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.0323990797379252,I-5- Richards Bl. to I-80,21,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,10454.344733581513,I-5- Richards Bl. to I-80,21,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,64.0223998428916,I-5- Richards Bl. to I-80,21,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,26.43860279847923,I-5- Richards Bl. to I-80,21,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.7168552832899022,I-5- Richards Bl. to I-80,21,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.1721460475030276,I-5- Richards Bl. to I-80,21,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,2.3006388383012575,I-5- Richards Bl. to I-80,21,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.0334191791662044,I-5- Richards Bl. to I-80,21,2019,SOUTHBOUND,lottr_wknd
+WESTBOUND_calc_len,54296.58050469858,I80- Solano CL to US50,22,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,68.11964028749078,I80- Solano CL to US50,22,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,46.69455040239229,I80- Solano CL to US50,22,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.206191879345806,I80- Solano CL to US50,22,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.2182878063711253,I80- Solano CL to US50,22,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3285942204583594,I80- Solano CL to US50,22,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.4384731997183973,I80- Solano CL to US50,22,2019,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,54296.58050123892,I80- Solano CL to US50,22,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,69.21557572064621,I80- Solano CL to US50,22,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,33.829626491069895,I80- Solano CL to US50,22,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.0423280881790664,I80- Solano CL to US50,22,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.4102890078726944,I80- Solano CL to US50,22,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.3870069584788103,I80- Solano CL to US50,22,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.220258311818781,I80- Solano CL to US50,22,2019,EASTBOUND,lottr_wknd
+NORTHBOUND_calc_len,13713.404069203749,SR65- Blue Oaks Bl to I80,23,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,68.15093302666912,SR65- Blue Oaks Bl to I80,23,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,46.13118272136286,SR65- Blue Oaks Bl to I80,23,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.076861453381834,SR65- Blue Oaks Bl to I80,23,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.1418743552159434,SR65- Blue Oaks Bl to I80,23,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.3060760052990164,SR65- Blue Oaks Bl to I80,23,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.1244725308489438,SR65- Blue Oaks Bl to I80,23,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,13115.74952360608,SR65- Blue Oaks Bl to I80,23,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,64.66173598054387,SR65- Blue Oaks Bl to I80,23,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,33.37438927342351,SR65- Blue Oaks Bl to I80,23,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.3407308440862644,SR65- Blue Oaks Bl to I80,23,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2424007870514981,SR65- Blue Oaks Bl to I80,23,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.4507559510860029,SR65- Blue Oaks Bl to I80,23,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.4363583429145081,SR65- Blue Oaks Bl to I80,23,2019,SOUTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,10565.97642065857,SR-99- Lincoln Rd to SR-20,24,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,40.420905601049945,SR-99- Lincoln Rd to SR-20,24,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,22.24949985272251,SR-99- Lincoln Rd to SR-20,24,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.2478366509547394,SR-99- Lincoln Rd to SR-20,24,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.2341314132601837,SR-99- Lincoln Rd to SR-20,24,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.2735271116031393,SR-99- Lincoln Rd to SR-20,24,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.334951020539142,SR-99- Lincoln Rd to SR-20,24,2019,SOUTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,8715.011684614812,SR-99- Lincoln Rd to SR-20,24,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,40.73032097215247,SR-99- Lincoln Rd to SR-20,24,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,22.45414633748994,SR-99- Lincoln Rd to SR-20,24,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.2109605659647467,SR-99- Lincoln Rd to SR-20,24,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.2415804281284892,SR-99- Lincoln Rd to SR-20,24,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.2888385333168573,SR-99- Lincoln Rd to SR-20,24,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.276167611578205,SR-99- Lincoln Rd to SR-20,24,2019,NORTHBOUND,lottr_wknd
+NORTHBOUND_calc_len,33066.566470920094,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,NORTHBOUND,_calc_len
+NORTHBOUNDff_speed_art60thp,43.512104457975475,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,NORTHBOUND,ff_speed_art60thp
+NORTHBOUNDhavg_spd_worst4hrs,23.711628513132705,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,NORTHBOUND,havg_spd_worst4hrs
+NORTHBOUNDlottr_ampk,1.216330356851803,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,NORTHBOUND,lottr_ampk
+NORTHBOUNDlottr_md,1.1915850966701762,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,NORTHBOUND,lottr_md
+NORTHBOUNDlottr_pmpk,1.3399667351577746,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,NORTHBOUND,lottr_pmpk
+NORTHBOUNDlottr_wknd,1.2072623228626613,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,NORTHBOUND,lottr_wknd
+SOUTHBOUND_calc_len,33026.12527855189,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,SOUTHBOUND,_calc_len
+SOUTHBOUNDff_speed_art60thp,43.097197015585806,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,SOUTHBOUND,ff_speed_art60thp
+SOUTHBOUNDhavg_spd_worst4hrs,24.7802441991843,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,SOUTHBOUND,havg_spd_worst4hrs
+SOUTHBOUNDlottr_ampk,1.254329321483071,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,SOUTHBOUND,lottr_ampk
+SOUTHBOUNDlottr_md,1.1886306723532543,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,SOUTHBOUND,lottr_md
+SOUTHBOUNDlottr_pmpk,1.2653563091599234,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,SOUTHBOUND,lottr_pmpk
+SOUTHBOUNDlottr_wknd,1.2315925042624682,Hazel Ave- Folsom Blvd to Placer County Line,25,2019,SOUTHBOUND,lottr_wknd
+EASTBOUND_calc_len,31519.37555335028,Greenback Lane- I-80 to Hazel Ave,26,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,38.21080888559218,Greenback Lane- I-80 to Hazel Ave,26,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,20.527404894460908,Greenback Lane- I-80 to Hazel Ave,26,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.30335015052777,Greenback Lane- I-80 to Hazel Ave,26,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.292339132357084,Greenback Lane- I-80 to Hazel Ave,26,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.3094276558895053,Greenback Lane- I-80 to Hazel Ave,26,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3468766102456997,Greenback Lane- I-80 to Hazel Ave,26,2019,EASTBOUND,lottr_wknd
+WESTBOUND_calc_len,31519.375553176076,Greenback Lane- I-80 to Hazel Ave,26,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,38.14525411850173,Greenback Lane- I-80 to Hazel Ave,26,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,19.297170698729733,Greenback Lane- I-80 to Hazel Ave,26,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.2931168670364945,Greenback Lane- I-80 to Hazel Ave,26,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.2989012421653001,Greenback Lane- I-80 to Hazel Ave,26,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3679962448913106,Greenback Lane- I-80 to Hazel Ave,26,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.3487341050549924,Greenback Lane- I-80 to Hazel Ave,26,2019,WESTBOUND,lottr_wknd
+WESTBOUND_calc_len,55343.890945486666,Madison Ave- Watt Ave to Greenback Lane,27,2019,WESTBOUND,_calc_len
+WESTBOUNDff_speed_art60thp,41.55918230694236,Madison Ave- Watt Ave to Greenback Lane,27,2019,WESTBOUND,ff_speed_art60thp
+WESTBOUNDhavg_spd_worst4hrs,21.502157705463073,Madison Ave- Watt Ave to Greenback Lane,27,2019,WESTBOUND,havg_spd_worst4hrs
+WESTBOUNDlottr_ampk,1.3170887947184435,Madison Ave- Watt Ave to Greenback Lane,27,2019,WESTBOUND,lottr_ampk
+WESTBOUNDlottr_md,1.2895765803957293,Madison Ave- Watt Ave to Greenback Lane,27,2019,WESTBOUND,lottr_md
+WESTBOUNDlottr_pmpk,1.3355076819220295,Madison Ave- Watt Ave to Greenback Lane,27,2019,WESTBOUND,lottr_pmpk
+WESTBOUNDlottr_wknd,1.327361410736457,Madison Ave- Watt Ave to Greenback Lane,27,2019,WESTBOUND,lottr_wknd
+EASTBOUND_calc_len,54924.164146764626,Madison Ave- Watt Ave to Greenback Lane,27,2019,EASTBOUND,_calc_len
+EASTBOUNDff_speed_art60thp,41.478592767283835,Madison Ave- Watt Ave to Greenback Lane,27,2019,EASTBOUND,ff_speed_art60thp
+EASTBOUNDhavg_spd_worst4hrs,22.5675167546578,Madison Ave- Watt Ave to Greenback Lane,27,2019,EASTBOUND,havg_spd_worst4hrs
+EASTBOUNDlottr_ampk,1.2878080454030751,Madison Ave- Watt Ave to Greenback Lane,27,2019,EASTBOUND,lottr_ampk
+EASTBOUNDlottr_md,1.2822850257032525,Madison Ave- Watt Ave to Greenback Lane,27,2019,EASTBOUND,lottr_md
+EASTBOUNDlottr_pmpk,1.296675384133094,Madison Ave- Watt Ave to Greenback Lane,27,2019,EASTBOUND,lottr_pmpk
+EASTBOUNDlottr_wknd,1.3207736666461054,Madison Ave- Watt Ave to Greenback Lane,27,2019,EASTBOUND,lottr_wknd
