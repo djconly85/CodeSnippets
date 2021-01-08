@@ -1,11 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[86]:
-
 
 """
-This is a temporary script file.
 Resources:
     https://www.tutorialspoint.com/matplotlib/matplotlib_axes_class.htm
 
@@ -13,10 +7,8 @@ Resources:
 
 import os
 import time
-import pdb
 
 import pandas as pd
-import matplotlib
 import matplotlib.pyplot as plt
 
 
@@ -71,7 +63,7 @@ class BarChart():
 
     
     def make_bar_chart(self, ax, subplt_df, subplt_title=None, yval_numformat='numeric', label_precision=2,
-                       x_axis_label=None, y_axis_label=None, x_tick_rotation=0):
+                       x_axis_label=None, y_axis_label=None, x_tick_rotation=0, y_ax_min=0, y_ax_max=None):
         '''
         INPUTS:
             ax = matplotlib axes object
@@ -82,6 +74,9 @@ class BarChart():
                 'numeric' = as number with user-specified number of decimals
                 'percentage' = show as percentage with user-specified number of decimals
             label_precision = how many decimal places to show in labels above each chart bar
+            x/y axis labels = axis labels
+            y_ax_min = minimum value for y axis (default = 0)
+            y_ax_max = max value on y-axis scale (default = None)
         '''
         
         
@@ -94,11 +89,15 @@ class BarChart():
     
         # the values that will be shown for each tick mark on the x axis
         x_label_vals = subplt_df[self.subplt_xticklab].unique()  
-        ax.set_xticklabels(x_label_vals, rotation=x_tick_rotation)
-    
+        
+        # import pdb; pdb.set_trace()
+        
         # the distance along the x axis at which the x-axis label will be placed
         x_label_posns = [i + (bar_width/2) for i, v in enumerate(x_label_vals)]
         ax.set_xticks(x_label_posns)
+        ax.set_xticklabels(x_label_vals, rotation=x_tick_rotation, wrap=False)
+    
+
     
         # set subplot title, axis titles
         if subplt_title is None:
@@ -109,9 +108,12 @@ class BarChart():
         axislabel_x = x_axis_label # if x_axis_label else subplt_df[self.subplt_xticklab].name
         axislabel_y = y_axis_label # if y_axis_label else subplt_df[self.subplt_col_yvals].name 
     
-        ax.set_title(subplt_title)
+        ax.set_title(subplt_title, fontsize=12)
         ax.set_xlabel(axislabel_x)
-        ax.set_ylabel(axislabel_y)
+        ax.set_ylabel(axislabel_y, fontsize=15)
+        
+        # set size of axis tick labels
+        ax.tick_params(axis='both', which='major', labelsize=12)
     
         # these values will be a different color on the bar chart
         if self.subplt_series_vals is not None:
@@ -154,7 +156,7 @@ class BarChart():
                 label_x_pos = bar_rect.get_x() + bar_rect.get_width() / 2
     
                 # ax.annotate(<val to show>, x/y position of text label)
-                ax.annotate(s=f"{f_data_val}", xy=(label_x_pos, data_val),
+                ax.annotate(text=f"{f_data_val}", xy=(label_x_pos, data_val),
                            xytext=(label_x_pos + offset_x, data_val + offset_y),
                            horizontalalignment='center', verticalalignment='bottom' ,rotation=0)
                             # xycoords=(label_x_pos + offset_x, data_val + offset_y)) 
@@ -162,6 +164,10 @@ class BarChart():
                 # all annotate params before xytext arg - https://matplotlib.org/3.3.0/api/_as_gen/matplotlib.axes.Axes.annotate.html
                 # all annotate params after xytext arg - https://matplotlib.org/3.3.0/api/text_api.html#matplotlib.text.Text
     
+        # set minimum y-axis value (must be done after data added to plot to ensure "top" yval is correct)
+        # import pdb; pdb.set_trace()
+        ax.set_ylim(bottom=y_ax_min, top=y_ax_max)
+        
         # add legend
         # https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.legend.html
         # ax.legend(data_series, loc='best', bbox_to_anchor=(0.9, 0, 0.35, 1))
@@ -171,7 +177,7 @@ class BarChart():
         
     #=======FUNCTION TO RUN ON DATAFRAME AFTER IT'S BEEN PREPARED FOR CHARTING==========
     
-    def make_bar_chart_subplots(self, xtick_rotn_dict=None, **subplotkwargs):
+    def make_bar_chart_subplots(self, xtick_rotn_dict=None, y_ax_min_dict=None, **subplotkwargs):
         '''
         PURPOSE: makes a figure with multiple bar charts on it (subplots), laid out in a grid format
         PARAMETERS:
@@ -218,12 +224,15 @@ class BarChart():
             #establish position of chart
             axrow_i = ilist[0] #index numbers for each row of charts
             axcol_i = ilist[1] #index numbers for each col of charts
-            # pdb.set_trace()
+            # import pdb; pdb.set_trace()
             ax_i = axes[axrow_i, axcol_i] if n_chartscols > 1 else axes[axrow_i]
     
             # filter input dataframe to appropriate parameters
             col_filter_val = col_splitter[axcol_i]
             row_filter_val = row_splitter[axrow_i]
+    
+            # get max y-axis value for all charts in row
+
     
             df_chart = self.in_df.loc[(self.in_df[self.subplt_col_names] == col_filter_val) \
                                       & (self.in_df[self.subplt_row_names] == row_filter_val)]
@@ -233,13 +242,22 @@ class BarChart():
             
             # if applicable, define rotation in degrees for x tickmark labels
             xtick_rotn = xtick_rotn_dict[row_filter_val] if xtick_rotn_dict else 0
+            
+            # set y-axis values
+            min_y_ax_val = y_ax_min_dict[row_filter_val] if y_ax_min_dict else 0
+            
+            max_y_ax_val = self.in_df.loc[self.in_df[self.subplt_row_names]==row_filter_val][self.subplt_col_yvals].max()
+            max_y_ax_val = max_y_ax_val * 1.05 # to ensure buffer space above chart bars
+            # import pdb; pdb.set_trace()
     
             self.make_bar_chart(ax_i, df_chart, subplot_title, y_axis_label=row_filter_val, 
-                                x_tick_rotation=xtick_rotn, **subplotkwargs)
+                                x_tick_rotation=xtick_rotn, y_ax_min=min_y_ax_val, 
+                                y_ax_max=max_y_ax_val, **subplotkwargs)
     
         # add title to top of figure
-        fig.suptitle(self.fig_title, fontsize='x-large', fontweight='bold', wrap=True)
+        fig.suptitle(self.fig_title, fontsize=18, fontweight='bold', wrap=True)
         fig.tight_layout(pad=3.0)
+        plt.subplots_adjust(top=0.93)  # so that layout title doesn't run in to individual subplot titles
     
         output_figfile = os.path.join(self.out_dir, "{}.{}".format(self.fig_title, self.outputformat))
         plt.savefig(output_figfile)
